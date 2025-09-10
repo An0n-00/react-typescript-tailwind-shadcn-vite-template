@@ -82,7 +82,7 @@ export default function Footer() {
                 <Separator className="mb-6 md:mb-8" />
                 <div className="flex flex-col items-center justify-between md:flex-row">
                     <p className="text-muted-foreground text-xs md:text-sm">
-                        © {new Date().getFullYear()} Wordle Solutions by{' '}
+                        © {new Date().getFullYear()} [TEMPLATE] by{' '}
                         <a href="https://github.com/[USERNAME]/[TEMPLATE]" className="underline" target="_blank" rel="noopener noreferrer">
                             [USERNAME]
                         </a>

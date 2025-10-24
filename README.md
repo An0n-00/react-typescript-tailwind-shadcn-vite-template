@@ -13,9 +13,19 @@ Leave a star if you like it! ⭐
 > [!TIP]
 > ## [Check it out live here](https://an0n-00.github.io/react-typescript-tailwind-shadcn-vite-template/)
 
+### Desktop
+
 <img width="1920" height="1182" alt="image" src="https://github.com/user-attachments/assets/6a4b5485-53ce-42fd-ab83-b30a0fd4ecf3" />
 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/df60083a-beca-4e38-8fef-4e2424530a63" />
+
+### Mobile
+
+<img width="465" height="1012" alt="image" src="https://github.com/user-attachments/assets/f5e002be-73f9-4376-af1e-95cab2cedc6d" />
+
+<img width="465" height="1006" alt="image" src="https://github.com/user-attachments/assets/c6f0897b-07b0-49e2-9116-6d67431e4b11" />
+
+<img width="467" height="1010" alt="image" src="https://github.com/user-attachments/assets/7f32c622-d600-425e-be20-1b4ab4d7ac13" />
 
 
 

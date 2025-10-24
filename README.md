@@ -6,7 +6,18 @@ A modern, opinionated starter template for building React web applications with 
 
 Leave a star if you like it! ⭐
 
+
+## Preview
 </div>
+
+> [!TIP]
+> ## [Check it out live here](https://an0n-00.github.io/react-typescript-tailwind-shadcn-vite-template/)
+
+<img width="1920" height="1182" alt="image" src="https://github.com/user-attachments/assets/6a4b5485-53ce-42fd-ab83-b30a0fd4ecf3" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/df60083a-beca-4e38-8fef-4e2424530a63" />
+
+
 
 ## Features
 

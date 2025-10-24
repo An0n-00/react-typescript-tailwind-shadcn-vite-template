@@ -27,6 +27,9 @@ jobs:
             - name: Update Dependencies
               run: npm update --force
 
+            - name: Update Shadcn UI Components
+              run: npx shadcn@latest add --all --overwrite --yes
+
             - name: Push new Package.json
               run: |
                   git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -36,5 +39,5 @@ jobs:
                     echo "No changes to commit"
                     exit 0
                   fi
-                  git commit -m "Updated dependencies"
+                  git commit -m "Updated dependencies and/or Shadcn UI components"
                   git push origin main

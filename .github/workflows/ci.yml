@@ -27,6 +27,9 @@ jobs:
             - name: Update Dependencies
               run: npm update --force
 
+            - name: Fix Vulnerabilities if any
+              run: npm audit fix --force
+
             - name: Update Shadcn UI Components
               run: npx shadcn@latest add --all --overwrite --yes
 
